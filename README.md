@@ -8,12 +8,15 @@ First off, the meaning of these verb+preposition combinations is opaque - the co
 >* bring up (_raise \(i.e. a child), mention a topic for the first time in conversation_)
 >* take off  (_leave quickly_, or _remove_)
 
-Secondly, these phrasal verbs don't all behave the same syntactically.  Some can take a direct object, and some can't, and some can put that direct object in between the verb and the preposition/adverb. Others can only do it...pronouns explanation here.
+Secondly, these phrasal verbs don't all behave the same syntactically.  Some can take a direct object, and some can't:
 >* The rocket took off.
-> *The rocket took off the shield (very different meaning)
+>* The rocket took off the shield (very different meaning)
 >* Don't **bring up** the topic at dinner tonight.
->  Don't **bring** the topic **up** at dinner tonight.
->  Don't **bring** it **up** at dinner tonight.
+
+and some can put that direct object in between the verb and the preposition/adverb. Others can only do it...pronouns explanation here.
+
+>  Don't **bring** the topic **up** at dinner tonight.  
+>  Don't **bring** it **up** at dinner tonight.  
 >  \*Don't **bring up** it.  (Terrible)
 
 Linguists have all sorts of fun debating [how to best describe these verbs](https://www.linguisticsociety.org/sites/default/files/e-learning/42.%20SyntacticAmbiguity_TheyDecidedOnTheBoat.pdf), and whether there are in fact multiple types of verbs - those that are truly 'particle' verbs, and those that are just a verb and correlated preposition.  
