@@ -1,5 +1,5 @@
 # phrasal_verbs
-Code to mine for the most common phrasal verbs in corpora
+Code to mine for the most common phrasal verbs in an as-of-yet undefined corpora
 
 ### Introduction
 Adult learners of English have trouble acquiring phrasal verbs.  Phrasal verbs are those that consist of a verb and an associated preposition or adverb. For example, in the sentence '_Bob will come home and take off his shoes_', **take off** is a phrasal verb. There are a couple of reasons that phrasal verbs are difficult for learners.  
