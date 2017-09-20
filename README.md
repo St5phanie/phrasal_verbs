@@ -15,14 +15,14 @@ Secondly, these phrasal verbs don't all behave the same syntactically.  Some can
 
 and some can put that direct object in between the verb and the preposition/adverb. Others can only do it...pronouns explanation here.
 
->  Don't **bring** the topic **up** at dinner tonight.  
->  Don't **bring** it **up** at dinner tonight.  
->  \*Don't **bring up** it.  (Terrible)
+>* Don't **bring** the topic **up** at dinner tonight.  
+>* Don't **bring** it **up** at dinner tonight.  
+>* \*Don't **bring up** it.  (Terrible)
 
 Linguists have all sorts of fun debating [how to best describe these verbs](https://www.linguisticsociety.org/sites/default/files/e-learning/42.%20SyntacticAmbiguity_TheyDecidedOnTheBoat.pdf), and whether there are in fact multiple types of verbs - those that are truly 'particle' verbs, and those that are just a verb and correlated preposition.  
 
 ### Purpose
-This code will help English language learners by helping them concentrate on learning the most common phrasal verbs first.  It will run over the corpora (TBD) and extract the verbs with corresponding prepositions, and order them in rank of prevalence/frequency.
+This code will run over the corpora (TBD) and extract the verbs with corresponding prepositions/particles, and order them in rank of  frequency.  An English language learner trying to get a handle on the wild world of phrasals could use this list and start with those verbs s/he is most likely to use.
 
 #### Foreseen Problems
 
